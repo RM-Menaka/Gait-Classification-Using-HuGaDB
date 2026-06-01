@@ -39,4 +39,3 @@ Sensor locations:
 ## Author
 
 Menaka R M
-Machine Learning Intern
